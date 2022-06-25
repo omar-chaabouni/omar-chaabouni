@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 🔭
 -->
-- 🤔 I’m currently looking for an end of year internship (4 to 6 months) starting from January.
+- 🤔 I’m currently looking for a job opportunity as an IoT engineer.
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on Dev / IOT projects
 - 💬 Ask me about Flutter
