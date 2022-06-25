@@ -1,5 +1,5 @@
-### Hi, I'm a developer 👋
-
+### Hi, I'm an IoT engineer 👋
+## I code and develop applciations too
 <!--
 **omar-chaabouni/omar-chaabouni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
